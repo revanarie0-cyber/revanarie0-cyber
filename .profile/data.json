@@ -1,5 +1,5 @@
 {
- "key": "fd6509ea",
+ "key": "ba68c509",
  "stars": 1,
  "contributions": 12,
  "repos": 2,
@@ -99,9 +99,13 @@
    {
     "c": 0,
     "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
     "today": true
    },
-   null,
    null,
    null
   ]
